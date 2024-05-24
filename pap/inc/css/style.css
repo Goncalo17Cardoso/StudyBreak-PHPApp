@@ -1,0 +1,413 @@
+/* GERAL */
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    color: #674C47;
+}
+
+body{
+    background-image: url("../img/office/office_design.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+.titles-index {
+    font-size: xx-large;
+}
+
+.titles-underline-index {
+    width: 10%;
+    border-top: 10px solid #674C47;
+    opacity: 1;
+}
+
+/* INDEX - MAIN */
+
+#wrapper-division-1 {
+    background-image: url("../img/index/main_index.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+#main-logo {
+    margin-top: 20vh;
+}
+
+.main-buttons {
+    margin-bottom: 15vh;
+}
+
+a .btn-main {
+    background-color: #eae0c7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+a .btn-main:hover {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: underline;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+td .btn-main {
+    background-color: #eae0c7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+
+td .btn-main:hover {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: underline;
+    transition: all 0.5s ease-in-out;
+}
+
+#wrapper-division-2 {
+    background-image: url("../img/index/information/information_design.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.bg-body-index-information {
+    background-color: rgba(229,209,183);
+}
+/* NAV */
+
+header nav {
+    background-color: rgba(229,209,183);
+}
+
+/* FOOTER */
+
+footer {
+    background-color: rgba(229,209,183);
+}
+
+footer a {
+    font-family: 'Montserrat', sans-serif;
+    color: #674C47;
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+
+footer a:hover {
+    font-family: 'Montserrat', sans-serif;
+    color: #b8860b;
+    text-decoration: underline;
+    transition: all 0.5s ease-in-out;
+}
+
+footer a .bi {
+    font-size: xx-large;
+    color: #674C47;
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+
+footer a .bi:hover {
+    font-size: xx-large;
+    color: #b8860b;
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+}
+
+/* LOGIN & REGISTER - MAIN */
+
+.wrapper-division-1 {
+    background-image: url("../img/login_register/main_image.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;   
+}
+
+.bg-body-login-register {
+    background-color: rgba(229,209,183,0.5);
+}
+
+form a {
+    color: #674C47;
+    text-decoration: none;
+}
+
+form .btn-login-register {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+form .btn-login-register:hover {
+    background-color: #eae0c7;
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: underline;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+/* OFFICE - GERAL */
+
+#wrapper-main-office-part1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    min-height: 100%;
+}
+
+.text-greetings-office {
+    font-size: 2.5rem;
+    text-transform: uppercase;   
+}
+
+.list-group-item {
+    background-color: rgba(229,209,183);
+}
+
+/* OFFICE STUDENT - LUNCH */
+
+.text-lunch-student {
+    font-size: 4rem;
+    text-transform: uppercase;   
+}
+
+.text-date-lunch-student {
+    font-size: 2rem;
+    text-transform: uppercase;   
+}
+
+.btn-lunch-student {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+.btn-lunch-student:hover {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+a .btn-lunch-student {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+a .btn-lunch-student:hover {
+    background-color: #eae0c7;
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: underline;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+/* OFFICE STUDENT - SNACK */
+
+.text-snack-student {
+    font-size: 4rem;
+    text-transform: uppercase;   
+}
+
+.text-date-snack-student {
+    font-size: 2rem;
+    text-transform: uppercase;   
+}
+
+.btn-snack-student {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+.btn-snack-student:hover {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+a .btn-snack-student {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+a .btn-snack-student:hover {
+    background-color: #eae0c7;
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: underline;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+/* OFFICE STUDENT - PROFILE */
+
+.bg-profile-student {
+    background-color: rgba(229,209,183,0.5);
+}
+
+.btn-profile-student {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+.btn-profile-student:hover {
+    background-color: #eae0c7;
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: underline;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+/* OFFICE ADMIN - MAIN PAGE */
+
+.text-greetings-admin {
+    font-size: 2.5rem;
+    text-transform: uppercase;  
+}
+
+.month-objective-admin {
+    font-size: 2rem;
+    text-transform: uppercase; 
+}
+
+.bg-progress-bar {
+    background-color: #674C47;
+}
+
+/* OFFICE ADMIN - ADD PRODUCTS */
+
+.text-title-add-products-admin {
+    font-size: 1.5rem;
+}
+
+.text-title-reservations-admin {
+    font-size: 1.5rem;
+}
+
+.titles-underline-admin {
+    width: 10%;
+    border-top: 10px solid #674C47;
+    opacity: 1;
+}
+
+.btn-addproducts-admin {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+.btn-addproducts-admin:hover {
+    background-color: #eae0c7;
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+}
+
+.bg-body-weekmenu {
+    background-color: rgba(229,209,183,0.5);
+}
+
+.bg-body-reservations {
+    background-color: rgba(229,209,183);
+}
+
+.bg-body-stats {
+    background-color: rgba(229,209,183);
+}
+
+.bg-body-notes {
+    background-color: rgba(229,209,183,0.5);
+}
+
+.btn-admin-edit-objective {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+    font-size: 1rem;
+}
+
+.btn-direction-add-users {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 13rem;
+    transition: all 0.5s ease-in-out;
+    font-size: 1rem;
+}
+
+.text-title-app-costumize {
+    font-size: 1.5rem;
+}
+
+.titles-underline-app-costumize {
+    width: 10%;
+    border-top: 10px solid #674C47;
+    opacity: 1;
+}
+
+.btn-products-admin {
+    background-color: #e5d1b7; 
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: none;
+    min-width: 3rem;
+    transition: all 0.5s ease-in-out;
+}
+
+.btn-products-admin:hover {
+    background-color: #eae0c7;
+    color: #b8860b;
+    border: 3px solid #674C47;
+    text-decoration: underline;
+    min-width: 3rem;
+    transition: all 0.5s ease-in-out;
+}
