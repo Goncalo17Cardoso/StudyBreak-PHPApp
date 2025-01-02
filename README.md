@@ -12,17 +12,17 @@
  - Aumentar a minha experiência no desenvolvimento Web.
 
 ## Tecnologias
- > HTML
- > CSS
- > JavaScript
- > PHP
- > Mysql
- > ChartJS
- > BootStrap
- > Visual Studio Code
- > Laragon
- > GitHub
- > Eraser
+ 1. HTML
+ 2. CSS
+ 3. JavaScript
+ 4. PHP
+ 5. Mysql
+ 6. ChartJS
+ 7. BootStrap
+ 8. Visual Studio Code
+ 9. Laragon
+ 10. GitHub
+ 11. Eraser
 
 # Conclusão
  Este projeto facilita o trabalho de quem trabalha nos bares ou cantinas das instituições escolares.
