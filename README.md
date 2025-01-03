@@ -1,17 +1,17 @@
 # StudyBreak-PHPApp
- Este projeto é a minha Prova de Aptidão Profissional desenvolvida em PHP, JavaScript e MySql.
+ This project is my Professional Aptitude Test developed in PHP, JavaScript and MySql.
 
-## Objetivos:
- - Facilitar a vida de quem trabalha em bar/cantina de instituições escolares;
- - Aumentar o número de vendas;
- - Facilitar a reserva de refeições aos alunos, professores e funcionários das instituições;
- - Ser uma aplicação completamente modelável e configurável à medida de cada instituição.
+## Objectives:
+ - Make life easier for those who work in bars/canteens at school institutions;
+ - Increase the number of sales;
+ - Facilitate the reservation of meals for students, teachers and staff of institutions;
+ - Be a completely modelable and configurable application tailored to each institution.
 
-## Objetivos Pessoais:
- - Aprimorar o meu desenvolvimento Web, tanto Front-End e Back-End;
- - Aumentar a minha experiência no desenvolvimento Web.
+## Personal Goals:
+ - Improve my Web development, both Front-End and Back-End;
+ - Increase my experience in Web development.
 
-## Tecnologias
+## Technologies
  1. HTML
  2. CSS
  3. JavaScript
@@ -24,8 +24,8 @@
  10. GitHub
  11. Eraser
 
-# Conclusão
- Este projeto facilita o trabalho de quem trabalha nos bares ou cantinas das instituições escolares.
+# Conclusion
+ This project facilitates the work of those who work in bars or canteens at school institutions.
 
- Conclui este projeto muito antes do tempo proposto, por isso aumentei ainda mais o meu projeto. 
- Não tive um grau de dificuldade muito grande.
+ I completed this project well before the proposed time, so I increased my project even more. 
+ I didn't have a very high level of difficulty.
